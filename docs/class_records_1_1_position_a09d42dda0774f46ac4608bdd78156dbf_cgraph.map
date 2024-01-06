@@ -1,0 +1,13 @@
+<map id="Records::Position::display" name="Records::Position::display">
+<area shape="rect" id="Node000001" title="Повертає інформацію про посаду у вигляді рядка." alt="" coords="5,139,138,181"/>
+<area shape="rect" id="Node000002" href="$class_records_1_1_position.html#a8bcb6d2358f742585ff5c99632a1a1a8" title="Отримує перелік обов&#39;язків посади." alt="" coords="186,5,318,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,136,133,98,184,58,190,54,193,59,187,62,137,102,96,140"/>
+<area shape="rect" id="Node000003" href="$class_records_1_1_position.html#a84ac4ad4564bfe1b48a8832c86194b64" title="Отримує розмір оплати посади." alt="" coords="186,72,318,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,136,177,118,179,123,132,141"/>
+<area shape="rect" id="Node000004" href="$class_records_1_1_position.html#abdc7ede8cb1e3f3bb8d35a9cd52feb63" title="Отримує код посади." alt="" coords="186,139,318,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,157,170,157,170,163,138,163"/>
+<area shape="rect" id="Node000005" href="$class_records_1_1_position.html#a5b55980f578df55bff0b44784284d5e9" title="Отримує назву посади." alt="" coords="186,205,318,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,179,179,197,177,202,130,184"/>
+<area shape="rect" id="Node000006" href="$class_records_1_1_position.html#a65aa655e30f8a6b219e4b83911d104ee" title="Отримує перелік вимог до посади." alt="" coords="186,272,318,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="96,180,137,218,187,258,193,261,190,266,184,262,133,222,92,184"/>
+</map>

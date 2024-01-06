@@ -1,0 +1,7 @@
+<map id="Records::Position::incrBudget" name="Records::Position::incrBudget">
+<area shape="rect" id="Node000001" title="Збільшує бюджет на вказану суму." alt="" coords="5,39,138,81"/>
+<area shape="rect" id="Node000002" href="$class_records_1_1_position.html#a84ac4ad4564bfe1b48a8832c86194b64" title="Отримує розмір оплати посади." alt="" coords="186,5,318,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,45,170,39,171,44,138,50"/>
+<area shape="rect" id="Node000003" href="$class_records_1_1_position.html#a01f07c08ea8e259b43e7e397e22005bf" title="Встановлює розмір оплати посади." alt="" coords="186,72,318,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,70,171,76,170,81,137,75"/>
+</map>

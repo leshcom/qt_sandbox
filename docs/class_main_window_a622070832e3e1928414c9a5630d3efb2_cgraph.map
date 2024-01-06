@@ -1,0 +1,29 @@
+<map id="MainWindow::changeposition" name="MainWindow::changeposition">
+<area shape="rect" id="Node000001" title="Змінює існуючу посаду." alt="" coords="5,364,196,391"/>
+<area shape="rect" id="Node000002" href="$class_records_1_1_position.html#a09d42dda0774f46ac4608bdd78156dbf" title="Повертає інформацію про посаду у вигляді рядка." alt="" coords="275,139,407,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,362,126,328,156,282,195,234,242,191,259,181,262,186,245,195,199,237,160,285,130,331,111,365"/>
+<area shape="rect" id="Node000008" href="$class_main_window.html#ac476ea9f809db5481ebc1c3374deb969" title="Знаходить перше число в рядку." alt="" coords="244,205,438,232"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="110,362,163,304,200,270,242,242,255,235,257,240,245,246,204,274,166,308,114,365"/>
+<area shape="rect" id="Node000009" href="$class_records_1_1_database.html#a5d7fbb41a1e45c903e3d326201d7cee3" title="Отримує позицію за кодом з бази даних." alt="" coords="271,256,411,299"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="128,361,243,308,258,302,260,307,245,313,130,366"/>
+<area shape="rect" id="Node000010" href="$class_records_1_1_position.html#a8f04e2f285ae9fce8321116942630fe1" title="Встановлює перелік обов&#39;язків посади." alt="" coords="275,323,407,365"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="196,361,259,353,260,358,196,367"/>
+<area shape="rect" id="Node000011" href="$class_records_1_1_position.html#a01f07c08ea8e259b43e7e397e22005bf" title="Встановлює розмір оплати посади." alt="" coords="275,389,407,432"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="196,388,260,397,259,402,196,393"/>
+<area shape="rect" id="Node000012" href="$class_records_1_1_position.html#a373768fe7da410f54692150d50ee25e8" title="Встановлює код посади." alt="" coords="275,456,407,499"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="130,389,245,442,261,448,259,453,243,446,128,394"/>
+<area shape="rect" id="Node000013" href="$class_records_1_1_position.html#a03fcaf21b2f03f9efe3b474d296a3c97" title="Встановлює назву посади." alt="" coords="275,523,407,565"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="115,389,167,446,204,479,245,508,262,517,259,522,242,513,201,483,164,450,111,393"/>
+<area shape="rect" id="Node000014" href="$class_records_1_1_position.html#a8c391dc2d74d5347506561b3bb932ff8" title="Встановлює перелік вимог до посади." alt="" coords="275,589,407,632"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="110,390,129,427,158,477,197,529,245,575,262,586,259,590,242,579,193,533,153,480,124,429,106,392"/>
+<area shape="rect" id="Node000003" href="$class_records_1_1_position.html#a8bcb6d2358f742585ff5c99632a1a1a8" title="Отримує перелік обов&#39;язків посади." alt="" coords="486,5,618,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,136,422,98,485,58,492,53,495,58,487,62,425,103,373,140"/>
+<area shape="rect" id="Node000004" href="$class_records_1_1_position.html#a84ac4ad4564bfe1b48a8832c86194b64" title="Отримує розмір оплати посади." alt="" coords="486,72,618,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="407,137,471,116,472,121,408,142"/>
+<area shape="rect" id="Node000005" href="$class_records_1_1_position.html#abdc7ede8cb1e3f3bb8d35a9cd52feb63" title="Отримує код посади." alt="" coords="486,139,618,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="408,157,471,157,471,163,408,163"/>
+<area shape="rect" id="Node000006" href="$class_records_1_1_position.html#a5b55980f578df55bff0b44784284d5e9" title="Отримує назву посади." alt="" coords="486,205,618,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="408,178,472,199,471,204,407,183"/>
+<area shape="rect" id="Node000007" href="$class_records_1_1_position.html#a65aa655e30f8a6b219e4b83911d104ee" title="Отримує перелік вимог до посади." alt="" coords="486,272,618,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="409,174,440,191,456,208,465,225,473,241,488,258,491,261,488,265,484,262,469,244,460,227,452,211,436,195,406,179"/>
+</map>
