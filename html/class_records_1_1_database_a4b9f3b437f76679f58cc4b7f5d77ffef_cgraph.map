@@ -1,0 +1,15 @@
+<map id="Records::Database::displayWorkers" name="Records::Database::displayWorkers">
+<area shape="rect" id="Node000001" title="Виводить інформацію про робітників у базі даних." alt="" coords="5,139,146,181"/>
+<area shape="rect" id="Node000002" href="$class_records_1_1_position.html#a09d42dda0774f46ac4608bdd78156dbf" title="Повертає інформацію про посаду у вигляді рядка." alt="" coords="194,139,326,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,157,178,157,178,163,146,163"/>
+<area shape="rect" id="Node000003" href="$class_records_1_1_position.html#a8bcb6d2358f742585ff5c99632a1a1a8" title="Отримує перелік обов&#39;язків посади." alt="" coords="374,5,506,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,136,322,98,372,58,378,54,381,59,376,62,325,102,284,140"/>
+<area shape="rect" id="Node000004" href="$class_records_1_1_position.html#a84ac4ad4564bfe1b48a8832c86194b64" title="Отримує розмір оплати посади." alt="" coords="374,72,506,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="318,136,365,118,367,123,320,141"/>
+<area shape="rect" id="Node000005" href="$class_records_1_1_position.html#abdc7ede8cb1e3f3bb8d35a9cd52feb63" title="Отримує код посади." alt="" coords="374,139,506,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="326,157,359,157,359,163,326,163"/>
+<area shape="rect" id="Node000006" href="$class_records_1_1_position.html#a5b55980f578df55bff0b44784284d5e9" title="Отримує назву посади." alt="" coords="374,205,506,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="320,179,367,197,365,202,318,184"/>
+<area shape="rect" id="Node000007" href="$class_records_1_1_position.html#a65aa655e30f8a6b219e4b83911d104ee" title="Отримує перелік вимог до посади." alt="" coords="374,272,506,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="284,180,325,218,376,258,381,261,378,266,372,262,322,222,280,184"/>
+</map>

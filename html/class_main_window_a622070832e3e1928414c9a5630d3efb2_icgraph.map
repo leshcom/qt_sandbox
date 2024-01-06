@@ -1,0 +1,7 @@
+<map id="MainWindow::changeposition" name="MainWindow::changeposition">
+<area shape="rect" id="Node000001" title="Змінює існуючу посаду." alt="" coords="231,31,421,57"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Головна функція програми." alt="" coords="69,5,119,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,35,119,24,119,19,216,29"/>
+<area shape="rect" id="Node000003" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="Конструктор класу MainWindow." alt="" coords="5,56,183,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,59,183,62,183,57,215,53"/>
+</map>

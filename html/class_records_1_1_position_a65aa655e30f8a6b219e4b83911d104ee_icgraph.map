@@ -1,0 +1,21 @@
+<map id="Records::Position::getRequirements" name="Records::Position::getRequirements">
+<area shape="rect" id="Node000001" title="Отримує перелік вимог до посади." alt="" coords="649,107,782,149"/>
+<area shape="rect" id="Node000002" href="$class_records_1_1_position.html#a09d42dda0774f46ac4608bdd78156dbf" title="Повертає інформацію про посаду у вигляді рядка." alt="" coords="469,107,601,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="634,131,602,131,602,125,634,125"/>
+<area shape="rect" id="Node000003" href="$class_main_window.html#abc113741f2ecfc940919ee2ee4879ed6" title="Додає нову посаду до бази даних." alt="" coords="241,56,411,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,107,420,97,379,86,381,81,422,92,455,102"/>
+<area shape="rect" id="Node000006" href="$class_main_window.html#a622070832e3e1928414c9a5630d3efb2" title="Змінює існуючу посаду." alt="" coords="231,5,421,32"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="497,98,461,71,420,46,390,35,392,30,422,42,464,66,500,94"/>
+<area shape="rect" id="Node000007" href="$class_records_1_1_database.html#a7ebcd3aa71690c0241a18a5f55da9dd6" title="Виводить інформацію про адміністраторів у базі даних." alt="" coords="256,107,396,149"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="454,131,396,131,396,125,454,125"/>
+<area shape="rect" id="Node000008" href="$class_records_1_1_database.html#a408f92dfab942b74cc8b717a1a719b14" title="Виводить інформацію про всі позиції у базі даних." alt="" coords="256,173,396,216"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="455,156,396,175,395,170,453,151"/>
+<area shape="rect" id="Node000009" href="$class_records_1_1_database.html#a4b9f3b437f76679f58cc4b7f5d77ffef" title="Виводить інформацію про робітників у базі даних." alt="" coords="256,240,396,283"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="506,162,468,198,422,230,397,243,395,238,420,226,464,193,502,159"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Головна функція програми." alt="" coords="69,5,119,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,55,118,27,120,21,247,49"/>
+<area shape="rect" id="Node000005" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="Конструктор класу MainWindow." alt="" coords="5,56,183,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="226,72,183,72,183,67,226,67"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="216,21,119,21,119,16,216,16"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="247,38,159,58,158,53,246,33"/>
+</map>

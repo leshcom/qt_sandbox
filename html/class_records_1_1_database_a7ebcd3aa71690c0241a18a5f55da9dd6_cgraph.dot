@@ -1,0 +1,21 @@
+digraph "Records::Database::displayAdmins"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="Records::Database::\ldisplayAdmins",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Виводить інформацію про адміністраторів у базі даних."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="Records::Position::\ldisplay",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_records_1_1_position.html#a09d42dda0774f46ac4608bdd78156dbf",tooltip="Повертає інформацію про посаду у вигляді рядка."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="Records::Position::\lgetObligations",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_records_1_1_position.html#a8bcb6d2358f742585ff5c99632a1a1a8",tooltip="Отримує перелік обов'язків посади."];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="Records::Position::\lgetPayment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_records_1_1_position.html#a84ac4ad4564bfe1b48a8832c86194b64",tooltip="Отримує розмір оплати посади."];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="Records::Position::\lgetPosCode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_records_1_1_position.html#abdc7ede8cb1e3f3bb8d35a9cd52feb63",tooltip="Отримує код посади."];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="Records::Position::\lgetPosName",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_records_1_1_position.html#a5b55980f578df55bff0b44784284d5e9",tooltip="Отримує назву посади."];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="Records::Position::\lgetRequirements",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_records_1_1_position.html#a65aa655e30f8a6b219e4b83911d104ee",tooltip="Отримує перелік вимог до посади."];
+}

@@ -1,0 +1,9 @@
+<map id="Records::Database::addPosition" name="Records::Database::addPosition">
+<area shape="rect" id="Node000001" title="Додає нову позицію до бази даних." alt="" coords="5,72,146,115"/>
+<area shape="rect" id="Node000002" href="$class_records_1_1_position.html#a01f07c08ea8e259b43e7e397e22005bf" title="Встановлює розмір оплати посади." alt="" coords="194,5,326,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,69,184,51,186,56,137,74"/>
+<area shape="rect" id="Node000003" href="$class_records_1_1_position.html#a373768fe7da410f54692150d50ee25e8" title="Встановлює код посади." alt="" coords="194,72,326,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,91,178,91,178,96,146,96"/>
+<area shape="rect" id="Node000004" href="$class_records_1_1_position.html#a03fcaf21b2f03f9efe3b474d296a3c97" title="Встановлює назву посади." alt="" coords="194,139,326,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,113,186,130,184,136,135,118"/>
+</map>
